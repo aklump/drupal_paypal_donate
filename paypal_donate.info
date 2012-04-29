@@ -1,0 +1,6 @@
+; $Id: paypal_donate.info 187 2010-10-19 01:29:05Z aklump $
+name = PayPal Donate
+description = Create block(s) to allow users to donate via PayPal.
+core = 6.x
+package = Other
+version = "6.x-2.2"

@@ -1,0 +1,27 @@
+.block-paypal_donate .payment-logo {
+  margin-top: 10px;
+}
+.block-paypal_donate p.donate-message {
+  margin-top: 0;
+}
+
+/* this separates the different buttons */
+form.paypal-donate {
+  margin-bottom: 5px;
+}
+form.paypal-donate label {
+  margin-right: 5px;
+}
+form.paypal-donate .form-item {
+  margin: 5px 0 5px 0;
+}
+form.paypal-donate.blank-amount .form-item {
+  display: inline;
+}
+form.paypal-donate.blank-amount .form-submit {
+  margin: 0;
+}
+form.paypal-donate.blank-amount .form-submit.disabled {
+  margin: 0;
+  opacity: .5;
+}
